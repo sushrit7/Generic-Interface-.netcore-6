@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIRepositoryInterface", "APIRepositoryInterface\APIRepositoryInterface.csproj", "{B7B62019-D53F-43AC-A565-DC51405A627F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIRepositoryInterface", "APIRepositoryInterface\APIRepositoryInterface.csproj", "{B7B62019-D53F-43AC-A565-DC51405A627F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIRepositoryInterfaceTests", "APIRepositoryInterfaceTests\APIRepositoryInterfaceTests.csproj", "{D1DEA681-11F0-4982-B67D-835B4A016B46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B7B62019-D53F-43AC-A565-DC51405A627F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7B62019-D53F-43AC-A565-DC51405A627F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7B62019-D53F-43AC-A565-DC51405A627F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1DEA681-11F0-4982-B67D-835B4A016B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1DEA681-11F0-4982-B67D-835B4A016B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1DEA681-11F0-4982-B67D-835B4A016B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1DEA681-11F0-4982-B67D-835B4A016B46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
